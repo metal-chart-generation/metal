@@ -96,4 +96,3 @@ CUDA_DEVICES: e.g., 0,1
 ## Acknowledgements
 
 The dataset, direct generation code, and evaluation code are adapted from [ChartMIMIC](https://github.com/ChartMimic/ChartMimic).
-# metal
