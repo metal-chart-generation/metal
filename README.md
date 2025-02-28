@@ -76,8 +76,8 @@ Similarly, modify the shell script scripts/run_baselines.sh with your specific p
 
 ```bash
 sh scripts/run_baselines.sh
-Set the following variables in the script:
 ```
+Set the following variables in the script:
 
 - DATASET_DIR: e.g., ../../dataset
 - WORKING_HOME_DIR: Your desired working directory
