@@ -98,6 +98,7 @@ Set the following variables in the script:
 The dataset, direct generation code, and evaluation code are adapted from [ChartMIMIC](https://github.com/ChartMimic/ChartMimic).
 
 ## BibTex
+If you find our work helpful, please kindly cite our work :)
 ```bash
 @misc{li2025metalmultiagentframeworkchart,
           title={METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling}, 
