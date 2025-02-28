@@ -1,6 +1,6 @@
 # METAL:A Multi-Agent Framework for Chart Generation with Test-Time Scaling
 
-*[🌍 Project page](https://metal-framework.github.io) | [📄 Paper](https://metal-framework.github.io/static/pdfs/[arxiv]metal.pdf)*
+*[🌍 Project page](https://metal-framework.github.io) | [📄 Paper](https://arxiv.org/abs/2502.17651)*
 
 ---
 
@@ -96,3 +96,16 @@ Set the following variables in the script:
 ## Acknowledgements
 
 The dataset, direct generation code, and evaluation code are adapted from [ChartMIMIC](https://github.com/ChartMimic/ChartMimic).
+
+## BibTex
+```bash
+@misc{li2025metalmultiagentframeworkchart,
+          title={METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling}, 
+          author={Bingxuan Li and Yiwei Wang and Jiuxiang Gu and Kai-Wei Chang and Nanyun Peng},
+          year={2025},
+          eprint={2502.17651},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV},
+          url={https://arxiv.org/abs/2502.17651}, 
+    }
+```
