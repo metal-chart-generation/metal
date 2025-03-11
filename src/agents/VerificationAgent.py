@@ -112,7 +112,7 @@ class VerificationAgent(Agent):
     results = {
         "text": text_similarity,
         "color": color_similarity,
-        "ouverall": overall_similarity
+        "overall": overall_similarity
     }
     
     revision_rank = []
