@@ -1,6 +1,6 @@
 # METAL:A Multi-Agent Framework for Chart Generation with Test-Time Scaling
 
-*[🌍 Project page](https://metal-framework.github.io) | [📄 Paper](https://arxiv.org/abs/2502.17651)*
+*[🌍 Project page](https://metal-chart-generation.github.io)| [📄 Paper](https://arxiv.org/abs/2502.17651)*
 
 ---
 
