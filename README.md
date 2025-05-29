@@ -1,4 +1,4 @@
-# METAL:A Multi-Agent Framework for Chart Generation with Test-Time Scaling
+# METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling
 
 <p align="center">
     <a href="https://arxiv.org/abs/2502.17651" target="_blank">
