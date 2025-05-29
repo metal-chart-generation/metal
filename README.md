@@ -1,10 +1,10 @@
 # METAL:A Multi-Agent Framework for Chart Generation with Test-Time Scaling
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2502.17651" target="_blank">>
+    <a href="https://arxiv.org/abs/2502.17651" target="_blank">
         <img src="https://img.shields.io/badge/arXiv-2410.07166-B31B1B.svg?style=plastic&logo=arxiv" alt="arXiv">
     </a>
-    <a href="https://metal-chart-generation.github.io" target="_blank">>
+    <a href="https://metal-chart-generation.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Website-EAI-purple?style=plastic&logo=Google%20chrome" alt="Website">
     </a>
     <a href="https://opensource.org/licenses/MIT">
@@ -12,7 +12,9 @@
     </a>
 </p>
 
-## ACL-2025 Main
+<p align="center">
+    <b>ACL-2025 (Main Conference)</b>
+</p>
 
 <p align="center">
     <a href="https://bingxuanli.com/">Bingxuan Li</a>, 
